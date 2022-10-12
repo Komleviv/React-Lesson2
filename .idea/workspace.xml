@@ -1,23 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e6bfd13-d5c4-45ef-878d-c74cf2824ec5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/jest.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/example.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/header.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/new-reddit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/new-reddit.iml" afterDir="false" />
+    <list default="true" id="4e6bfd13-d5c4-45ef-878d-c74cf2824ec5" name="Changes" comment="Hello React">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cfg/webpack.client.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/cfg/webpack.client.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cfg/webpack.server.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/cfg/webpack.server.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/client/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/client/client.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/server/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/shared/header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +105,7 @@
       <updated>1662373009317</updated>
       <workItem from="1662373011047" duration="28443000" />
       <workItem from="1665207659853" duration="105000" />
-      <workItem from="1665558928429" duration="16190000" />
+      <workItem from="1665558928429" duration="16954000" />
     </task>
     <servers />
   </component>
@@ -139,5 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Hello React" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello React" />
   </component>
 </project>
